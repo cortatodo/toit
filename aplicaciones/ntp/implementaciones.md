@@ -4,4 +4,8 @@ Se abre una terminal donde estan los archivos
 
 Se ejecuta el comando
 
+```
 <jag container install ntp-app ntp_app.toit>
+```
+
+
