@@ -21,6 +21,11 @@ jag watch ntp_app.toit
 ```
 jag container install ntp-app ntp_app.toit
 ```
+
+-Para ver las implementaciones
+```
+jag container list
+```
 -Para desinstalar el contenedor
 
 ```
