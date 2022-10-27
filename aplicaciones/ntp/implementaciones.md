@@ -1,6 +1,6 @@
 # Implementacion en VS code
 
-Se abre una terminal donde estan los archivos y se abre una segunda terminal para observar los cambios a traves del uerto serial
+Se abre una terminal donde estan los archivos y se abre una segunda terminal para observar los cambios a traves del puerto serial con el comando
 
 ```
 jag monitor
