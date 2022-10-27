@@ -1,1 +1,1 @@
-# Esta aplicacion permite mantener actualizado la fecha y la hora del esp32
+Esta aplicacion permite mantener actualizado la fecha y la hora del esp32
